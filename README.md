@@ -8,17 +8,20 @@ I am a wireless R&D engineer based in Nuremberg, Germany. My work combines 5G/6G
 
 | Project | What it explores | Links |
 | --- | --- | --- |
-| LEO Satellite Coverage Explorer | OneWeb satellite visibility, ground coverage, elevation constraints, and handover behaviour in an interactive Streamlit app. | [Source code](https://github.com/laravich/leo-satellite-coverage-explorer) |
+| LEO Satellite Coverage Explorer | OneWeb satellite visibility, ground coverage, elevation constraints, and propagation delay in an interactive Streamlit app. | [Source code](https://github.com/laravich/leo-satellite-coverage-explorer) |
 | NR V2X resource selection | Distributed resource allocation for 5G NR sidelink, including QoS and energy-aware methods studied at Fraunhofer IIS. | [Publications on the portfolio](https://laravich.github.io/#publications) |
 | Migros Store Location Analysis | Swiss population, income, retail competition, and catchment data for comparing potential store locations. | [Analysis](https://github.com/laravich/migros-store-location-analysis) · [Streamlit app repository](https://github.com/laravich/Migros_Streamlit_App) |
+| Factory Production Planner | Team capstone on weekly production scheduling with machine capacity, due dates and routing constraints. | |
+| Telecom Customer Churn | Team ML project on churn prediction and risk factors. | [Source code](https://github.com/laravich/telco_churn_project) |
+| PDF Question Answering | Retrieval-augmented question answering with top-three retrieval evaluation. | |
 
 ## Background
 
-- **Fraunhofer IIS (2021–2025):** 5G/6G sidelink, vehicular network simulation, mmWave and sub-THz channel studies, and energy-saving research.
+- **Fraunhofer IIS (Nov 2019–May 2025):** Began as a student research assistant alongside my master’s thesis, worked on the SARL/MARL paper during my probationary period, and continued as an R&D engineer in 5G/6G sidelink, network simulation, channel modelling and energy-saving research.
 - **TU Ilmenau:** M.Sc. in Communications and Signal Processing, with a thesis on radio resource selection for aperiodic 5G NR V2X traffic.
 - **IMMS GmbH:** Work on time-sensitive networking with LS1021A-TSN boards and Linux scripting.
 - **Tata Consultancy Services:** Cisco ACI automation, testing, and network debugging.
-- **Current development:** Independent satellite and data projects alongside a Data Science & AI program.
+- **Constructor Academy:** Completed the Data Science & AI Intense Program in November 2026. Projects covered data analysis, machine learning, deep learning, generative AI and production scheduling.
 
 My tools include Python, MATLAB, C/C++, OMNeT++, Simu5G, INET, Veins, SUMO, QuaDRiGa, GNU Radio, USRP, Wireshark, Pandas, Plotly, and Streamlit.
 
